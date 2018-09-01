@@ -9,7 +9,7 @@ from flask import Flask, flash, request, render_template, jsonify, session, redi
 
 
 app = Flask(__name__)
-
+app.secret_key = os.environ('FLASK_SECRET')
 # Flask-Mail configuration
 app.config['MAIL_SERVER'] = 'smtp.googlemail.com'
 app.config['MAIL_PORT'] = 587
