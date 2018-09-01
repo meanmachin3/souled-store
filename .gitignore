@@ -1,0 +1,10 @@
+
+\.idea/
+
+\.python-version
+
+\.vscode/
+
+venv/
+
+*.pyc
