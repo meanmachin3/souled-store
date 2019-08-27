@@ -32,6 +32,6 @@ singledispatch==3.4.0.3
 six==1.11.0
 uritemplate==3.0.0
 vine==1.1.4
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 wrapt==1.10.11
 gunicorn
