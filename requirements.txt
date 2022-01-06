@@ -4,7 +4,7 @@ backports.functools-lru-cache==1.5
 billiard==3.5.0.4
 blinker==1.4
 cachetools==2.1.0
-celery==4.2.1
+celery==5.2.2
 click==6.7
 configparser==3.5.0
 enum34==1.1.6
